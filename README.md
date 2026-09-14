@@ -1,22 +1,132 @@
-<div align="center">
+# `> Bruno Henrique`
 
-### 👨‍💻 **Bruno Henrique** | Backend Developer & Cybersecurity Student 
-*Architecting secure, scalable systems. Breaking them to make them stronger.*
+```bash
+$ whoami
+Bruno Henrique
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-henriquedev)
-[![](https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SEU_PERFIL)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](email:brunohenriqdev@gmail.com)
+$ role
+Backend Developer & Cybersecurity Student
 
-</div>
+$ location
+Brazil 🇧🇷
+
+$ focus
+Backend Development
+Software Architecture
+Cybersecurity
+Automation
+```
 
 ---
 
-Eu opero na intersecção entre o desenvolvimento de software e a segurança ofensiva/defensiva.
+## `$ about`
 
-```zsh
-$ cat cybersecurity_focus.txt
-# Minhas áreas de atuação incluem:
-> API Security (OWASP Top 10 Mitigation)
-> Secure Coding Practices (DevSecOps)
-> Penetration Testing (Web & Network)
-> Identity & Access Management (OAuth2/OIDC/JWT)
+```text
+Systems Information student focused on backend development,
+software architecture and cybersecurity.
+
+I build practical systems based on real-world problems,
+with emphasis on maintainability, security and scalability.
+
+Currently evolving from AI-assisted development toward
+deeper independent software engineering.
+```
+
+---
+
+## `$ stack`
+
+```text
+Languages     → TypeScript · JavaScript · Python
+Backend       → Node.js · Next.js
+Database      → PostgreSQL · Supabase
+Tools         → Git · GitHub · VS Code
+Security      → OWASP · RLS · Authentication · Authorization
+```
+
+---
+
+## `$ projects`
+
+### `./SewTrackBIBI`
+
+```text
+Production management system for a footwear manufacturing
+environment.
+
+→ Production tracking
+→ Database management
+→ Reports & analytics
+→ QR workflow
+→ Authentication & authorization
+→ Security-focused database design
+```
+
+### `./EngManager`
+
+```text
+Engineering management platform focused on:
+
+→ Modular architecture
+→ Authentication
+→ Protected routes
+→ Database layer
+→ Scalability
+→ Maintainability
+```
+
+---
+
+## `$ security`
+
+```text
+Security is part of the development process,
+not something added at the end.
+
+Currently studying:
+
+OWASP Top 10
+Web Application Security
+Authentication & Authorization
+Database Security
+API Security
+Penetration Testing
+```
+
+---
+
+## `$ currently_learning`
+
+```bash
+[████████████████░░░░] Backend Engineering
+[██████████████░░░░░░] Cybersecurity
+[████████████░░░░░░░░] Software Architecture
+[███████████░░░░░░░░░] Penetration Testing
+```
+
+---
+
+## `$ mission`
+
+```text
+Build secure software.
+Understand how it works.
+Understand how it can fail.
+Keep improving.
+```
+
+---
+
+## `$ contact`
+
+```bash
+$ github
+github.com/BrunohkDEV
+
+$ linkedin
+linkedin.com/in/bruno-henriquedev
+```
+
+```text
+> Building software. Learning security. Solving real problems.
+```
