@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Bruno Henrique
+# Olá, eu sou Bruno Henrique
 
 ### Backend Developer • Software Engineering • Cybersecurity
 
@@ -22,12 +22,12 @@ Sou estudante de **Sistemas de Informação**, com foco em desenvolvimento de so
 
 Tenho interesse em transformar problemas reais em sistemas práticos, buscando desenvolver aplicações que sejam:
 
-* 🔐 Seguras
-* 🧩 Modulares
-* 📈 Escaláveis
-* 🛠️ Fáceis de manter
-* 🤖 Automatizadas
-* 📊 Orientadas a dados
+*  Seguras
+*  Modulares
+*  Escaláveis
+*  Fáceis de manter
+*  Automatizadas
+*  Orientadas a dados
 
 Atualmente estou aprofundando meus conhecimentos em **engenharia de software, arquitetura backend e cybersecurity**, enquanto desenvolvo projetos próprios baseados em problemas reais.
 
