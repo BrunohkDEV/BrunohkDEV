@@ -1,18 +1,6 @@
-# Olá, eu sou Bruno Henrique
+# Olá, eu sou o Bruno Henrique
 
 ### Backend Developer • Software Engineering • Cybersecurity
-
-<p align="left">
-  <a href="https://github.com/BrunohkDEV">
-    <img src="https://img.shields.io/github/followers/BrunohkDEV?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/BrunohkDEV">
-    <img src="https://komarev.com/ghpvc/?username=BrunohkDEV&style=for-the-badge&color=blue" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/BrunohkDEV?tab=repositories">
-    <img src="https://img.shields.io/github/stars/BrunohkDEV?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
-  </a>
-</p>
 
 ---
 
