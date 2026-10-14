@@ -38,22 +38,6 @@ Exploring technology, development and digital security.
 
 </div>
 
-> Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunohkDEV&bg_color=07111F&color=60A5FA&line=2563EB&point=93C5FD&area=true&area_color=102A43&hide_border=true" width="100%" alt="Gráfico de atividade do GitHub" />
-
-</div>
-
-> Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BrunohkDEV/BrunohkDEV/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação da cobrinha no painel de contribuições" />
-
-</div>
-
 > Connect With Me
 
 <div align="center">
